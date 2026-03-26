@@ -1,0 +1,8 @@
+<form method="post" action="register">
+    Name: <input type="text" name="name"/><br/>
+    Email: <input type="text" name="email"/><br/>
+    Password: <input type="password" name="password"/><br/>
+    <button type="submit">Register</button>
+</form>
+
+<p>${msg}</p>
