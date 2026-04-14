@@ -1,0 +1,1 @@
+<html><body><form action='login' method='post'>User:<input name='username'/>Pass:<input name='password'/><button>Login</button></form></body></html>

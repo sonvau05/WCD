@@ -1,0 +1,1 @@
+<html><body><form action='register' method='post'>User:<input name='username'/>Email:<input name='email'/>Pass:<input name='password'/><button>Register</button></form></body></html>
