@@ -1,0 +1,5 @@
+<web-app version="4.0" xmlns="http://xmlns.jcp.org/xml/ns/javaee">
+<welcome-file-list>
+<welcome-file>AddContact.jsp</welcome-file>
+</welcome-file-list>
+</web-app>
